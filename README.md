@@ -1,1 +1,2 @@
 # Smoke-Alarm-System
+The goal of the smoke alarm system is to monitor the smoke concentration in the house in real time using the MQ2 smoke sensor and upload the data to mqtt. The system lights up green when the smoke concentration is below 400, and lights up red when the smoke concentration exceeds 400, while the buzzer will sound to alert the user and remind him to check the fire situation in the house.
